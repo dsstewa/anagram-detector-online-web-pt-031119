@@ -19,7 +19,7 @@ class Anagram
     return answer
   end
   
-array = [1,2,3]
+
   
 
   
